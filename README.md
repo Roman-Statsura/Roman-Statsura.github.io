@@ -1,7 +1,13 @@
 # learn-regular-expressions
 
-#Link
-https://github.com/Roman-Statsura/learn-regular-expressions
+## Objective of this project:
+using regular expressions to validate form
 
-#Version: 
-v0.0.1 
+### Link
+https://Roman-Statsura.github.io/
+
+#### Version: 
+v0.0.2 
+
+##### Used in the project:
+HTML,CSS,GIT
