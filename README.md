@@ -7,7 +7,7 @@ using regular expressions to validate form
 https://Roman-Statsura.github.io/
 
 #### Version: 
-v0.0.1 
+v0.0.2 
 
 ##### Used in the project:
 HTML,CSS,GIT
