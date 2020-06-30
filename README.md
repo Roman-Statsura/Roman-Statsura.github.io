@@ -1,6 +1,6 @@
 # learn-regular-expressions
 
-## Objective og this project:
+## Objective of this project:
 using regular expressions to validate form
 
 ### Link
